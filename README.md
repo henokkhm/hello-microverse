@@ -111,8 +111,6 @@ This project is not currently deployed.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Henok K Hailemariam**
 
 - GitHub: [@henokkhm](https://github.com/henokkhm)
